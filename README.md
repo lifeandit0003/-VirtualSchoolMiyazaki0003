@@ -1,1 +1,2 @@
-# -VirtualSchoolMiyazaki0003
+# VirtualSchoolMiyazaki0003
+## 開発用
